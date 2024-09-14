@@ -12,7 +12,11 @@
 ```
 git clone https://github.com/makel0ve/calculator.git
 ```
-2. Установка зависимостей:
+2. Перейти в папку с проектом:
+```
+cd calculator
+```
+3. Установка зависимостей:
 ```
 pip install -r requirements.txt
 ```
